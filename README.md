@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚔️ Grieta Diaria
+# Grieta Diaria
 
 ### Un campeón de League of Legends al día. El mismo para todo el equipo.
 
 *Cinco minutos en la Grieta y a seguir currando.*
 
-<a href="https://paulopnun.github.io/grieta-diaria/"><img src="https://img.shields.io/badge/%E2%96%B6%20JUGAR%20AHORA-c8aa6e?style=for-the-badge&labelColor=010a13" alt="Jugar ahora" height="42"></a>
+<a href="https://paulopnun.github.io/grieta-diaria/"><img src="https://img.shields.io/badge/JUGAR%20AHORA-c8aa6e?style=for-the-badge&labelColor=010a13" alt="Jugar ahora" height="42"></a>
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <div align="center">
 
@@ -45,19 +45,19 @@
 
 ---
 
-## 🎮 Modos de juego
+## Modos de juego
 
-| | Modo | Cómo se juega |
-|:-:|---|---|
-| 🧩 | **Clásico** | Escribe un campeón y compara 7 características: género, posición, especie, recurso, rango, región y año. 🟩 coincide · 🟨 en parte · 🟥 no · ⬆️⬇️ salió antes o después. |
-| 💬 | **Cita** | Escucha lo que dice el campeón al ser elegido o al ser bloqueado. A los 4 fallos se desbloquea la otra frase. |
-| ⚡ | **Habilidad** | Un icono de habilidad, en gris y girado. A los 3 fallos recupera el color y a los 6 se endereza. **Extra:** ¿en qué tecla va? |
-| 😀 | **Emoji** | Cuatro emojis que describen al campeón. Cada fallo destapa uno. |
-| 🖼️ | **Splash** | Un trozo muy ampliado de un splash art. Cada fallo aleja la imagen. **Extra:** ¿qué aspecto es? |
-| 📜 | **Título** | El apodo oficial del campeón, como «la Espada de los Darkin». |
-| ♾️ | **Libre** | Partidas ilimitadas tipo Clásico con un campeón al azar. |
+| Modo | Cómo se juega |
+|---|---|
+| **Clásico** | Escribe un campeón y compara 7 características: género, posición, especie, recurso, rango, región y año. Verde si coincide, amarillo si coincide en parte, rojo si no, y una flecha que indica si el campeón de hoy salió antes o después. |
+| **Cita** | Escucha lo que dice el campeón al ser elegido o al ser bloqueado. A los 4 fallos se desbloquea la otra frase. |
+| **Habilidad** | Un icono de habilidad, en gris y girado. A los 3 fallos recupera el color y a los 6 se endereza. **Extra:** ¿en qué tecla va? |
+| **Emoji** | Cuatro emojis que describen al campeón. Cada fallo destapa uno. |
+| **Splash** | Un trozo muy ampliado de un splash art. Cada fallo aleja la imagen. **Extra:** ¿qué aspecto es? |
+| **Título** | El apodo oficial del campeón, como «la Espada de los Darkin». |
+| **Libre** | Partidas ilimitadas tipo Clásico con un campeón al azar. |
 
-> 🕛 Cada día a las **00:00 (hora de Madrid)** salen campeones nuevos en todos los modos. La elección sale de una semilla con la fecha, así que todo el mundo juega con los mismos.
+Cada día a las **00:00 (hora de Madrid)** salen campeones nuevos en todos los modos. La elección sale de una semilla con la fecha, así que todo el mundo juega con los mismos.
 
 <div align="center">
 <img src="docs/captura.jpg" alt="Captura del juego en modo Clásico" width="80%">
@@ -65,17 +65,17 @@
 
 ---
 
-## ✨ Lo que trae
+## Lo que trae
 
-- 📊 **Estadísticas por modo:** partidas, racha actual, mejor racha y media de intentos.
-- ⏳ **Cuenta atrás** hasta el campeón de mañana.
-- 📋 **Copiar el resultado** con sus cuadraditos de colores, para pegarlo en el chat del equipo.
-- 🎨 **Fondo** con un splash difuminado distinto cada día, que nunca es la respuesta de ningún modo.
-- 💾 **Sin cuentas ni servidor:** los intentos y las estadísticas se guardan en el navegador de cada uno.
+- **Estadísticas por modo:** partidas, racha actual, mejor racha y media de intentos.
+- **Cuenta atrás** hasta el campeón de mañana.
+- **Copiar el resultado** con sus cuadraditos de colores, para pegarlo en el chat del equipo.
+- **Fondo** con un splash difuminado distinto cada día, que nunca es la respuesta de ningún modo.
+- **Sin cuentas:** los intentos y las estadísticas se guardan en el navegador de cada uno.
 
 ---
 
-## 📁 Estructura
+## Estructura
 
 ```
 index.html          el juego entero (iconos de campeones y habilidades incrustados)
@@ -92,7 +92,7 @@ python -m http.server
 
 ---
 
-## 📜 Créditos
+## Créditos
 
 Imágenes, voces y datos de campeones: **Riot Games**, vía [CommunityDragon](https://www.communitydragon.org/).
 
@@ -100,6 +100,6 @@ Imágenes, voces y datos de campeones: **Riot Games**, vía [CommunityDragon](ht
 
 <div align="center">
 
-**Hecho por diversión, sin ánimo de lucro** 💛
+**Hecho por diversión, sin ánimo de lucro.**
 
 </div>
