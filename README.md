@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="docs/banner.jpg" alt="Splash arts de Jinx, Ahri, Yasuo, Lux y Thresh" width="100%">
-
 # ⚔️ Grieta Diaria
 
 ### Un campeón de League of Legends al día. El mismo para todo el equipo.
